@@ -1,0 +1,11 @@
+.text-center{
+    text-align: center;
+}
+.btn{
+    padding: 5px 10px;
+    color: white;
+    background-color: rgb(71, 1, 77);
+    border: 2px solid white;
+    border-radius: 7px;
+    cursor: pointer;
+}
